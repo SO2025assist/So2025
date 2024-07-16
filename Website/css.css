@@ -1,0 +1,15 @@
+a {
+    color: black;
+    
+}
+.exempta{
+    color: rgb(0, 0, 255);
+}
+body{
+    background-color: black;
+    -webkit-text-fill-color: wheat;
+    font-style: Font_1;
+}
+button{
+    color: wheat
+}
